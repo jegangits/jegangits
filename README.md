@@ -11,6 +11,25 @@
 
 - 📫 How to reach me **jeganfx@gmail.com**
 
+**Skills-**
+
+
+- 📫 Strong proficiency in **JavaScript** and the **JavaScript object model**
+- 📫 In-depth understanding of **React.js** and its core principles
+- 📫 Experience with popular **React.js** workflows (**Redux**)
+
+Experience with React Hooks and building custom react-hooks
+Familiarity with newer specifications of ECMAScript
+Knowledge of server-side rendering 
+Familiarity with RESTful APIs
+Knowledge of Typescript
+Knowledge of Redux middleware such as Redux Saga & Redux Thunk
+Good Understanding with common front-end development tools such as Babel, Webpack, NPM, yarn etc.
+Ability to understand business requirements and translate them into technical requirements
+Familiarity with common tools such as Git, Bitbucket, JIRA
+
+Skills: Jest · Webpack · REST APIs · Cascading Style Sheets (CSS) · redux · React.js · JavaScript · HTML · GitHub
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/jegangits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jegangits" height="30" width="40" /></a>
