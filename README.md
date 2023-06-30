@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **react,javascript,nodejs**
 
-- 📫 How to reach me **jeganfx@gmail.com**
+- 📫 How to reach me **jeganfx7@gmail.com**
 
 **Skills-**
 
